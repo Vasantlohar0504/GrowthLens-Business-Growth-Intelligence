@@ -85,10 +85,10 @@ Open in browser
 ```
 [http://localhost:8501](http://localhost:8501)
 ```
-```
+---
 🚀 Live Demo: https://growthlens-business-growth-intelligence.streamlit.app
 
-```
+---
 ---
 
 # 📈 Business Insights Generated
