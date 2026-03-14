@@ -46,7 +46,7 @@ df["Order Date"] = pd.to_datetime(df["Order Date"])
 # TITLE
 # =========================
 
-st.title("📊 Business Growth Analytics Dashboard")
+st.title("📊 GrowthLens – Business Growth Intelligence Dashboard")
 st.caption("Advanced analytics dashboard for business growth insights")
 
 # =========================
