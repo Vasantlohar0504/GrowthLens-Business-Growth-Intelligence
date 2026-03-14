@@ -1,35 +1,15 @@
-# Business Growth Analytics
+# GrowthLens – Business Growth Intelligence
 
-## Overview
-This project analyzes global retail sales data to identify business growth patterns and insights.
-
-## Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Streamlit
-
-## Dataset
-Global Superstore 2016 Dataset
+A professional business analytics project built using Python and Streamlit.
 
 ## Features
-- Data Cleaning
-- Exploratory Data Analysis
-- Trend Analysis
-- Visualization
-- Interactive Dashboard
+- Sales trend analysis
+- Regional performance insights
+- Category-wise sales visualization
+- Interactive Streamlit dashboard
 
-## Run Project
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run analysis
-
-python main.py
-
-Run dashboard
-
-streamlit run dashboard/streamlit_dashboard.py
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
