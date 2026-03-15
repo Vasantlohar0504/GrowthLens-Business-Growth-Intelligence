@@ -26,6 +26,7 @@ The project includes:
 # 📊 Dashboard Features
 
 The interactive dashboard provides:
+
 ✔ Total Sales KPI  
 ✔ Total Profit KPI  
 ✔ Total Orders KPI  
