@@ -82,14 +82,13 @@ Launch the analytics dashboard
 streamlit run dashboard/streamlit_dashboard.py
 ```
 
-Open in browser
-```
-[http://localhost:8501](http://localhost:8501)
-```
 ---
-🚀 Live Demo: https://growthlens-business-growth-intelligence.streamlit.app
+# 🌐 Live Dashboard
 
----
+🚀 **Access the interactive dashboard here:**
+
+👉 **[Open Live Dashboard](https://growthlens-business-growth-intelligence.streamlit.app/)**
+
 ---
 
 # 📈 Business Insights Generated
