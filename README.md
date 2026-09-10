@@ -11,7 +11,7 @@ The project processes large sales datasets, performs exploratory data analysis (
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 Modern businesses rely on data analytics to understand performance and identify growth opportunities. GrowthLens demonstrates how data analysis can be used to transform raw sales data into meaningful insights.
 
 The project includes:
@@ -23,7 +23,7 @@ The project includes:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The interactive dashboard provides:
 
@@ -40,7 +40,7 @@ The interactive dashboard provides:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 | Technology | Purpose |
 |------------|--------|
 | Python | Core programming language |
@@ -53,7 +53,7 @@ The interactive dashboard provides:
 
 ---
 
-# ⚙ Installation
+#  Installation
 Clone the repository
 
 ```
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```
 ---
 
-# ▶ Run the Project
+#  Run the Project
 
 Run the data processing pipeline
 ```
@@ -83,15 +83,15 @@ streamlit run dashboard/streamlit_dashboard.py
 ```
 
 ---
-# 🌐 Live Dashboard
+#  Live Dashboard
 
-🚀 **Access the interactive dashboard here:**
+ **Access the interactive dashboard here:**
 
 👉 **[Open Live Dashboard](https://growthlens-business-growth-intelligence.streamlit.app/)**
 
 ---
 
-# 📈 Business Insights Generated
+#  Business Insights Generated
 This project helps identify:
 • Sales growth trends over time  
 • High-performing product categories  
@@ -101,6 +101,6 @@ This project helps identify:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 Vasant Lohar 
 Python | Data Analytics
